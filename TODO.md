@@ -11,5 +11,7 @@
 - handle large file search
 - pagination 
 - Basic AUTH 
+- More tests
+- Handle concurrency (not iterating on each file)
 
 
